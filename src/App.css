@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+body {
+  background-color: #F7DF1C;
+  /** background-image: url("../src/img/bbblurry.svg"); **/
+  background-size: cover;
+  font-family: 'Inter';
+}
+
+.blur {
+  background: rgba(181, 181, 181, 0.26);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(11px);
+  -webkit-backdrop-filter: blur(11px);
+  border: 1px solid rgba(181, 181, 181, 0.91);
+}
