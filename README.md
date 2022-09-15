@@ -1,9 +1,9 @@
 # Social hub 📲
 All your social medias in only page
 
-· Live Demo: https://weather.vicenweb.es
+· Live Demo: https://social.vicenweb.es
 
-· This project was created with React using OpenWeatherMAP API 
+· This project was created with React
 
 ![Image text](https://github.com/Itzvicen/social-hub/blob/main/preview.png)
 
