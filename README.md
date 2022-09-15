@@ -5,7 +5,7 @@ All your social medias in only page
 
 · This project was created with React using OpenWeatherMAP API 
 
-![Image text](https://github.com/Itzvicen/WeatherNOW-React/blob/main/preview.png)
+![Image text](https://github.com/Itzvicen/social-hub/blob/main/preview.png)
 
 ## 💻 Built using:
 
