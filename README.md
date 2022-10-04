@@ -1,7 +1,7 @@
 # Social hub 📲
 All your social medias in only page
 
-· Live Demo: https://social.vicenweb.es
+· Live Demo: https://social.vicen.me
 
 · This project was created with React
 
